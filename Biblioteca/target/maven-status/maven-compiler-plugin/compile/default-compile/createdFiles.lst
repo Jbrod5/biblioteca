@@ -1,0 +1,4 @@
+com\jbrod\biblioteca\JakartaRestConfiguration.class
+com\jbrod\biblioteca\resources\JakartaEE10Resource.class
+com\jbrod\biblioteca\data\Conexion.class
+com\jbrod\biblioteca\web\IndexServlet.class
